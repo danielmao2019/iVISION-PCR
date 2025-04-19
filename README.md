@@ -1,1 +1,5 @@
-# iVISION-PCR
+# iVISION-PCR: A Novel Point Cloud Registration Benchmark Dataset for Outdoor Construction Sites
+
+## Abstract
+
+Point Cloud Registration (PCR) is a fundamental machine perception task widely used for 3D modeling, change detection, and robotics applications in the construction industry. However, research on large-scale and complex outdoor scenes continuously evolving over long periods, with varying environmental factors and imperfection in collected data remains limited, primarily bottlenecked by the lack of benchmark datasets to support such research. In this paper, we present iVISION-PCR, a novel PCR dataset collected from a construction site of a residential building at the University of Waterloo. Our dataset comprises of 15 complete scenes from the construction site, captured over a six-month period. It includes a variety of seasonal (fall and winter), weather (sunny, cloudy, and post-snow), and illumination (morning and afternoon) conditions. As we do consistent recordings on the construction site, inherent noise from moving objects, flying snow, and those caused by complex structures of the construction site objects are also well-preserved, introducing new challenges to the PCR literature.
